@@ -38,6 +38,16 @@ In the fourth visualization, the main insight concerns trips duration. Most bike
 Looking at it further, the short trip pattern doesn't change according to sex orientation.
 
 
+![Screen Shot 2022-02-02 at 12 58 47 PM](https://user-images.githubusercontent.com/89421440/152240612-a3b1ba14-0c38-4ea2-89a4-72cfbc3a930f.png)
+
+
+The visualization of the top starting and ending trip locations confirms the short trip pattern further, as the maps look very similar.
+
+
+![Screen Shot 2022-02-02 at 12 58 56 PM](https://user-images.githubusercontent.com/89421440/152240787-3d9dcf37-5621-475e-abb8-6389ac6016b9.png)
+
+
+Finally, a visualization of the number of times a bike was used was provided to provide patterns with respect to bike maintenance. More used bikes will probably need to be repaired sooner than less used bikes.
 
 
 ## Summary:
